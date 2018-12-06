@@ -22,4 +22,4 @@
 - Run migrations using this command `php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="migrations"` and then perform `php artisan db:seed` and follow the steps. This will give you a default admin and user login details and also in users table.
 
 
-For any assistance mail me on `mohammedtariq@programmer.net` or call me on `9004227568`
+For any assistance mail me on `mohammedtariq@programmer.net`
